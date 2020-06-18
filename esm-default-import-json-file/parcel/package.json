@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "parcel build JSONReaderParcel.js",
+    "run": "node dist/JSONReaderParcel.js"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
