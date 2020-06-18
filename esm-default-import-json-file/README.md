@@ -21,5 +21,5 @@
 
 # Other
 
-- For quick introduction to Parcel with JSON, please read this [README.md](./parcel/README.md) 
-- For quick introduction to Webpack with JSON, please read this [README.md](./webpack/README.md) 
+- For quick introduction to Parcel with JSON, please read this [README.md](./parcel) 
+- For quick introduction to Webpack with JSON, please read this [README.md](./webpack) 
